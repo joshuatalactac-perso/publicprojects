@@ -10,3 +10,4 @@ sleep(1)
 with open('file.txt', 'r') as myFile:
     print(myFile.read())
 
+print(x)
